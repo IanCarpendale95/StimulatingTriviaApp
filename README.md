@@ -10,3 +10,5 @@ so they can address the user properly and then will go through each question I h
 show red and a correct answer is green, at the end it will tally up your result and give you feedback based on if you did well or not. 
 I feel I have developed my learning and understanding of the Kotlin Language and will be utlizing what I have learned in my further learning of programming.
 
+This is the first Commit which is Version 1.0 where the android screen orientation has been set as portrait, a custom theme has been created, a dependency of com.google.android.material for the use of the google android material is added and set and finally window soft input has been set as resizable
+
