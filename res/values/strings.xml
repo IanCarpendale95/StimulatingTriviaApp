@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StimulatingTrivia</string>
+    <string name="name">Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_name_to_start_trivia">Enter Name To Start Trivia</string>
+    <string name="start">Start</string>
+</resources>
